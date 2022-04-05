@@ -19,6 +19,10 @@ output: github_document
 [![R-CMD-check](https://github.com/LAMaglan/minipkg2/workflows/R-CMD-check/badge.svg)](https://github.com/LAMaglan/minipkg2/actions)
 <!-- badges: end -->
 
+Note: this was a follow-along tutorial:
+<br>
+https://masalmon.eu/talks/2021-03-26-package-dev/
+<br>
 The goal of minipkg2 is to tell  you what the time is.
 
 ## Installation
