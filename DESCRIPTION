@@ -1,0 +1,21 @@
+Package: minipkg2
+Title: Exemplifies Package Development
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Luigi",
+           family = "Maglanoc",
+           role = c("aut", "cre"),
+           email = "luigi_maglanoc@hotmail.com",
+           comment = c(ORCID = "0000-0003-2556-0779"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: 
+    praise,
+    rlang
