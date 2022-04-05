@@ -16,6 +16,7 @@ output: github_document
 # minipkg2
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/LAMaglan/minipkg2/workflows/R-CMD-check/badge.svg)](https://github.com/LAMaglan/minipkg2/actions)
 <!-- badges: end -->
 
 The goal of minipkg2 is to tell  you what the time is.
@@ -36,5 +37,3 @@ This is a basic example which shows you how to solve a common problem:
 library(minipkg2)
 what_time()
 ```
-
-What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
