@@ -2,5 +2,8 @@ pandoc: 2.7.3
 pkgdown: 2.0.2
 pkgdown_sha: ~
 articles: {}
-last_built: 2022-04-05T11:22Z
+last_built: 2022-04-05T11:34Z
+urls:
+  reference: https://LAMaglan.github.io/minipkg2/reference
+  article: https://LAMaglan.github.io/minipkg2/articles
 
